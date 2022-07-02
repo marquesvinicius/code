@@ -1,0 +1,14 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pokemon img {
+    display: block;
+}
+
+.pokemon {
+    text-align: center;
+    font-weight: bold;
+}
